@@ -94,7 +94,6 @@ Me chamo Matheus Nunes da Silva, tenho 27 anos e sou do Rio de Janeiro. Sou estu
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevNunes-eng&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
     align="left" 
     alt="Top Tecnologias" 
