@@ -1,6 +1,6 @@
 # 💻 Matheus Nunes da Silva
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Matheus Nunes da Silva, tenho 27 anos e sou do Rio de Janeiro. Sou estudante de Engenharia de Computação e Informação na UFRJ (Universidade Federal do Rio de Janeiro). Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[DevNunes-eng](https://www.youtube.com/@DevNunes-eng)", focado em desafios de programação e projetos de engenharia.
 
