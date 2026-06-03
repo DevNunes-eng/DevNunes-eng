@@ -85,7 +85,6 @@ Me chamo Matheus Nunes da Silva, tenho 27 anos e sou do Rio de Janeiro. Sou estu
 <br/>
 
 ### 📊 Estatísticas
-
 <p align="left">
   <img 
     align="left" 
