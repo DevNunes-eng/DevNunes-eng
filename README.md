@@ -5,8 +5,13 @@
 Me chamo Matheus Nunes da Silva, tenho 27 anos e sou do Rio de Janeiro. Sou estudante de Engenharia de Computação e Informação na UFRJ (Universidade Federal do Rio de Janeiro). Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[DevNunes-eng](https://www.youtube.com/@DevNunes-eng)", focado em desafios de programação e projetos de engenharia.
 
 <p align="left">
-    
-    
+    <a href="https://www.youtube.com/@devnunes-eng?sub_confirmation=1">
+    <img 
+        alt="YouTube" 
+        title="Inscreva-se no meu canal" 
+        src="https://custom-icon-badges.demolab.com/badge/Inscreva--se-YouTube-red?style=for-the-badge&logo=video&logoColor=white&labelColor=CE4630&color=E05D44"
+    />
+</a>
     <a href="https://github.com/DevNunes-eng?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
