@@ -1,6 +1,6 @@
 # 💻 Matheus Nunes da Silva
 
-**`Desenvolvedor Backend & Engenharia de Computação`**
+**`Desenvolvedor Backend`**
 
 Me chamo Matheus Nunes da Silva, tenho 27 anos e sou do Rio de Janeiro. Sou estudante de Engenharia de Computação e Informação na UFRJ (Universidade Federal do Rio de Janeiro).
 
