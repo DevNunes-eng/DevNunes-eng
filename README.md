@@ -22,7 +22,7 @@ Me chamo Matheus Nunes da Silva, tenho 27 anos e sou do Rio de Janeiro. Sou estu
 
 - ☕ **Sistemas Robustos**: Focado no desenvolvimento de sistemas backend resilientes, escaláveis e de alta performance utilizando **Java** e o ecossistema **Spring Boot**.
 - 🔒 **Segurança da Informação**: Entusiasta e praticante de boas práticas de segurança digital, criptografia e proteção de dados no desenvolvimento de software.
-- 🤖 **Hardware & Robótica**: Ampla experiência em robótica competitiva, trabalhando com lógica de combate, sistemas embarcados e controle em C/C++.
+- 🤖 **Hardware & Robótica**: Sistemas embarcados e controle em C/C++.
 - 📊 **Pesquisa & Inovação**: Desenvolvo projetos de Iniciação Científica voltados para **AIoT** (Internet das Coisas e Machine Learning) aplicados à mobilidade urbana.
 
 ---
@@ -40,6 +40,7 @@ Me chamo Matheus Nunes da Silva, tenho 27 anos e sou do Rio de Janeiro. Sou estu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" />
 </p>
 
 ---
